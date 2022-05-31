@@ -1,0 +1,10 @@
+void main() {
+  int Marks1 = 65;
+  int Marks2 = 65;
+
+  if (Marks1 == Marks2) {
+    print("The two students have the same Test Marks");
+  } else {
+    print("The two students have different Test Marks");
+  }
+}
